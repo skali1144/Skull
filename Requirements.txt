@@ -1,0 +1,6 @@
+sudo apt install git -y 
+sudo apt install ruby -y
+sudo apt install python3 -y
+sudo apt install lolcat  -y
+sudo apt install toilet -y
+pip3 install tbomb -y
